@@ -1,7 +1,7 @@
-Cyclistic Project
+TransJakarta Passengers 2021
 ==============================
 
-Design marketing strategies aimed at converting casual riders into annual members.
+investment target on types of public transportation
 
 Project Organization
 ------------
@@ -15,7 +15,7 @@ Project Organization
     │
     ├── docs               <- Documentation of your project
     │
-    ├── notebooks          <- Jupyter notebooks. The naming convention is a number (for ordering),
+    ├── notebooks          <- Jupyter notebooks. It is containing about data cleaning and data analytics,
     │                         the creator's initials, and a short `-` delimited description, e.g.
     │                         `1.0-jqp-initial-data-exploration`.
     │
@@ -47,4 +47,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://drive.google.com/drive/folders/1L2BIjpuegENmJfiu4lZ4CcjJhZdFo_8x">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
